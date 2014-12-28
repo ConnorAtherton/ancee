@@ -1,0 +1,26 @@
+{
+  "name": "ancee",
+  "version": "1.0.0",
+  "description": "ansi style color codes.",
+  "main": "ancee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ConnorAtherton/ancee.git"
+  },
+  "keywords": [
+    "ansi",
+    "styles",
+    "ansi-styles",
+    "color",
+    "cli"
+  ],
+  "author": "Connor Atherton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConnorAtherton/ancee/issues"
+  },
+  "homepage": "https://github.com/ConnorAtherton/ancee"
+}

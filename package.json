@@ -1,6 +1,6 @@
 {
   "name": "ancee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ansi style color codes.",
   "main": "ancee.js",
   "scripts": {

@@ -10,6 +10,7 @@ module.exports = {
   "_blink_slow"      : "5",
   "_blink_fast"      : "6",
   "_negative"        : "7",
+  "_strikethrough"    : "9",
   "_normal"          : "22",
   "_underline_none"  : "24",
   "_blink_off"       : "25",
